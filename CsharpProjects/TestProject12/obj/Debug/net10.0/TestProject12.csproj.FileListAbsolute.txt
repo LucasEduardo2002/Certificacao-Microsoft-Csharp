@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\obj\Debug\net10.0\TestProject12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\obj\Debug\net10.0\TestProject12.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\obj\Debug\net10.0\TestProject12.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\obj\Debug\net10.0\TestProject12.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\bin\Debug\net10.0\TestProject12.exe
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\bin\Debug\net10.0\TestProject12.deps.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\bin\Debug\net10.0\TestProject12.runtimeconfig.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\bin\Debug\net10.0\TestProject12.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\bin\Debug\net10.0\TestProject12.pdb
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\obj\Debug\net10.0\TestProject12.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\obj\Debug\net10.0\refint\TestProject12.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\obj\Debug\net10.0\TestProject12.pdb
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\obj\Debug\net10.0\TestProject12.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-C#\CsharpProjects\TestProject12\obj\Debug\net10.0\ref\TestProject12.dll
