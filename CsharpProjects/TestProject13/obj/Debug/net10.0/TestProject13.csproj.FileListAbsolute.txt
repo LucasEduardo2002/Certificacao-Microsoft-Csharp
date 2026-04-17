@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\bin\Debug\net10.0\TestProject13.exe
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\bin\Debug\net10.0\TestProject13.deps.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\bin\Debug\net10.0\TestProject13.runtimeconfig.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\bin\Debug\net10.0\TestProject13.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\bin\Debug\net10.0\TestProject13.pdb
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\obj\Debug\net10.0\TestProject13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\obj\Debug\net10.0\TestProject13.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\obj\Debug\net10.0\TestProject13.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\obj\Debug\net10.0\TestProject13.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\obj\Debug\net10.0\TestProject13.sourcelink.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\obj\Debug\net10.0\TestProject13.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\obj\Debug\net10.0\refint\TestProject13.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\obj\Debug\net10.0\TestProject13.pdb
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\obj\Debug\net10.0\TestProject13.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject13\obj\Debug\net10.0\ref\TestProject13.dll
