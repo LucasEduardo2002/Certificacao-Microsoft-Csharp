@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\bin\Debug\net10.0\Challenger3.exe
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\bin\Debug\net10.0\Challenger3.deps.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\bin\Debug\net10.0\Challenger3.runtimeconfig.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\bin\Debug\net10.0\Challenger3.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\bin\Debug\net10.0\Challenger3.pdb
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\obj\Debug\net10.0\Challenger3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\obj\Debug\net10.0\Challenger3.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\obj\Debug\net10.0\Challenger3.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\obj\Debug\net10.0\Challenger3.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\obj\Debug\net10.0\Challenger3.sourcelink.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\obj\Debug\net10.0\Challenger3.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\obj\Debug\net10.0\refint\Challenger3.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\obj\Debug\net10.0\Challenger3.pdb
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\obj\Debug\net10.0\Challenger3.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger3\Challenger3\obj\Debug\net10.0\ref\Challenger3.dll
