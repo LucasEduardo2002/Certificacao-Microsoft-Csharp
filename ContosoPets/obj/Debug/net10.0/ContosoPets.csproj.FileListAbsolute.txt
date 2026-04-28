@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\bin\Debug\net10.0\ContosoPets.exe
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\bin\Debug\net10.0\ContosoPets.deps.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\bin\Debug\net10.0\ContosoPets.runtimeconfig.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\bin\Debug\net10.0\ContosoPets.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\bin\Debug\net10.0\ContosoPets.pdb
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\obj\Debug\net10.0\ContosoPets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\obj\Debug\net10.0\ContosoPets.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\obj\Debug\net10.0\ContosoPets.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\obj\Debug\net10.0\ContosoPets.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\obj\Debug\net10.0\ContosoPets.sourcelink.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\obj\Debug\net10.0\ContosoPets.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\obj\Debug\net10.0\refint\ContosoPets.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\obj\Debug\net10.0\ContosoPets.pdb
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\obj\Debug\net10.0\ContosoPets.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\ContosoPets\obj\Debug\net10.0\ref\ContosoPets.dll
