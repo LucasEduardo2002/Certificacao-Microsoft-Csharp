@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\obj\Debug\net10.0\TestProject17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\obj\Debug\net10.0\TestProject17.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\obj\Debug\net10.0\TestProject17.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\obj\Debug\net10.0\TestProject17.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\obj\Debug\net10.0\TestProject17.sourcelink.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\bin\Debug\net10.0\TestProject17.exe
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\bin\Debug\net10.0\TestProject17.deps.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\bin\Debug\net10.0\TestProject17.runtimeconfig.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\bin\Debug\net10.0\TestProject17.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\bin\Debug\net10.0\TestProject17.pdb
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\obj\Debug\net10.0\TestProject17.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\obj\Debug\net10.0\refint\TestProject17.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\obj\Debug\net10.0\TestProject17.pdb
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\obj\Debug\net10.0\TestProject17.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\CsharpProjects\TestProject17\obj\Debug\net10.0\ref\TestProject17.dll
