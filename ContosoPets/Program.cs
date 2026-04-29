@@ -144,7 +144,6 @@ do
                 if (readResult != null)
                 {
                     dogCharacteristc = readResult.ToLower().Trim();
-
                 }
 
                 string dogDescription = "";
@@ -160,13 +159,19 @@ do
                         {
 
                             dogDescription = ourAnimals[i, 4] + "\n" + ourAnimals[i, 5];
-                            if (dogDescription.Contains(dogCharacteristc))
-                            {
-                                Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is a match!");
-                                Console.WriteLine(dogDescription);
+                            string[] characteristics = dogCharacteristc.Split(',');
 
-                                noMatchesDog = false;
+                            foreach (string characteristc in characteristics)
+                            {
+                                if (dogDescription.Contains(characteristc))
+                                {
+                                    Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is a match witch: {characteristc}");
+                                    Console.WriteLine(dogDescription);
+
+                                    noMatchesDog = false;
+                                }
                             }
+
                         }
                     }
 
