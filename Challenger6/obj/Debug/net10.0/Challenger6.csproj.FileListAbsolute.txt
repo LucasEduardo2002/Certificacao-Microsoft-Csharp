@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\obj\Debug\net10.0\Challenger6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\obj\Debug\net10.0\Challenger6.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\obj\Debug\net10.0\Challenger6.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\obj\Debug\net10.0\Challenger6.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\obj\Debug\net10.0\Challenger6.sourcelink.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\bin\Debug\net10.0\Challenger6.exe
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\bin\Debug\net10.0\Challenger6.deps.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\bin\Debug\net10.0\Challenger6.runtimeconfig.json
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\bin\Debug\net10.0\Challenger6.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\bin\Debug\net10.0\Challenger6.pdb
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\obj\Debug\net10.0\Challenger6.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\obj\Debug\net10.0\refint\Challenger6.dll
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\obj\Debug\net10.0\Challenger6.pdb
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\obj\Debug\net10.0\Challenger6.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Projetos\Certificacao-Microsoft-C#\Challenger6\obj\Debug\net10.0\ref\Challenger6.dll
